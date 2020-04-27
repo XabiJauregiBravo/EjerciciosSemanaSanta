@@ -1,0 +1,13 @@
+C:\Users\xabie\source\repos\EJERCICIOSEMANASANTA\bin\Debug\netcoreapp3.1\EJERCICIOSEMANASANTA.exe
+C:\Users\xabie\source\repos\EJERCICIOSEMANASANTA\bin\Debug\netcoreapp3.1\EJERCICIOSEMANASANTA.deps.json
+C:\Users\xabie\source\repos\EJERCICIOSEMANASANTA\bin\Debug\netcoreapp3.1\EJERCICIOSEMANASANTA.runtimeconfig.json
+C:\Users\xabie\source\repos\EJERCICIOSEMANASANTA\bin\Debug\netcoreapp3.1\EJERCICIOSEMANASANTA.runtimeconfig.dev.json
+C:\Users\xabie\source\repos\EJERCICIOSEMANASANTA\bin\Debug\netcoreapp3.1\EJERCICIOSEMANASANTA.dll
+C:\Users\xabie\source\repos\EJERCICIOSEMANASANTA\bin\Debug\netcoreapp3.1\EJERCICIOSEMANASANTA.pdb
+C:\Users\xabie\source\repos\EJERCICIOSEMANASANTA\obj\Debug\netcoreapp3.1\EJERCICIOSEMANASANTA.vbprojAssemblyReference.cache
+C:\Users\xabie\source\repos\EJERCICIOSEMANASANTA\obj\Debug\netcoreapp3.1\EJERCICIOSEMANASANTA.vbproj.CoreCompileInputs.cache
+C:\Users\xabie\source\repos\EJERCICIOSEMANASANTA\obj\Debug\netcoreapp3.1\EJERCICIOSEMANASANTA.AssemblyInfoInputs.cache
+C:\Users\xabie\source\repos\EJERCICIOSEMANASANTA\obj\Debug\netcoreapp3.1\EJERCICIOSEMANASANTA.AssemblyInfo.vb
+C:\Users\xabie\source\repos\EJERCICIOSEMANASANTA\obj\Debug\netcoreapp3.1\EJERCICIOSEMANASANTA.dll
+C:\Users\xabie\source\repos\EJERCICIOSEMANASANTA\obj\Debug\netcoreapp3.1\EJERCICIOSEMANASANTA.pdb
+C:\Users\xabie\source\repos\EJERCICIOSEMANASANTA\obj\Debug\netcoreapp3.1\EJERCICIOSEMANASANTA.genruntimeconfig.cache
